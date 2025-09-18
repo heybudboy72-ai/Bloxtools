@@ -1,4 +1,4 @@
-<?php require("settings.php"); # ItsYaboyNathan ?>
+<?php require("settings.php"); # Enter Price ?>
 <html>
     <meta property="og:title" content="<?php echo $name ?>">
     <meta property="og:site_name" content="<?php echo $name ?> Generator">
@@ -152,4 +152,5 @@ input {
         </form>
       </div>
     </div>
+
   </div>
